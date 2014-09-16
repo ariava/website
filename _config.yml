@@ -1,14 +1,21 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 127.0.0.1
+email: avanzini.arianna@gmail.com
+alternate_website: "http://ari-ava.blogspot.it/"
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog is powered by <a href=http://jekyllrb.com/>jekyll</a>, the
+  static site generator. Blog posts are released under <a href=http://creativecommons.org/licenses/by-nc-sa/4.0/>
+  CC BY-NC-SA</a>, while jekyll is subject to the <a href=https://github.com/jekyll/jekyll/blob/master/LICENSE>
+  MIT license</a>.<br>
+  <img src=http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png>
+intro: >
+  This is Arianna Avanzini's personal webpage. She is a student from the <a href=http://www.unimore.it>University
+  of Modena and Reggio Emilia</a>, currently interested in working on the topics of kernel and virtualization.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: AriannaAvanzini
+github_username:  ariava
+gplus_username: AriannaAvanzini
 
 # Build settings
 markdown: kramdown
