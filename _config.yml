@@ -9,8 +9,18 @@ description: > # this means to ignore newlines until "baseurl:"
   MIT license</a>.<br>
   <img src=http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png>
 intro: >
-  This is Arianna Avanzini's personal webpage. She is a student from the <a href=http://www.unimore.it>University
-  of Modena and Reggio Emilia</a>, currently interested in working on the topics of kernel and virtualization.
+  Hi! I'm Arianna Avanzini and this is my website. I have obtained a bachelor's degree in Computer Science
+  at the <a href=http://www.unimore.it>University of Modena and Reggio Emilia</a> in 2011 with a thesis about the
+  implementation of queue cooperation and preemption in the <a href=http://www.algogroup.unimo.it/people/paolo/disk_sched/>
+  BFQ storage I/O scheduler</a>. I am currently finishing my MD in Computer Engineering, my thesis being
+  based on an internship in collaboration with <a href=http://www.evidence.eu.com/it>Evidence Srl</a> concerning
+  the port of their real-time RTOS <a href=http://erika.tuxfamily.org/drupal/>ERIKA Enterprise</a> as a
+  <a href=http://www.xenproject.org/>Xen</a>-on-ARM guest. I am also an alumn from GNOME's <a href=http://gnome.org/opw/>
+  Outreach Program for Women</a>, in which I was accepted again with the <a href=http://www.xenproject.org/>Xen Project</a>
+  and worked on <a href=http://wiki.xenproject.org/wiki/2014_GSoC_and_OPW_Round_8_Projects#Improvements_to_the_block_I.2FO_paravirtualized_Xen_drivers>domain support for Linux</a> by porting the block I/O driver used by Linux-based Xen PV guests to the
+  multi-queue block layer API.
+  <br>
+  If you want to take a deeper look, here's my <a href=https://drive.google.com/file/d/0B3VQ-C3TAxDFaFNDSzJaWVFDUlk/edit?usp=sharing>resume<a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: AriannaAvanzini
