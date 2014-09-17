@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credits
-permalink: /credits/
+permalink: /credits/credits.html
 ---
 
 The idea of this website was suggested by [my father](http://www.starwars.com/databank/darth-vader).
