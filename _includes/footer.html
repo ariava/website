@@ -29,7 +29,19 @@
           </li>
           {% endif %}
 
-          {% if site.github_username %}
+          {% if site.linkedin_username %}
+          <li>
+            <a href="https://www.linkedin.com/pub/{{ site.linkedin_profile }}">
+              <span class="icon  icon--linkedin">
+                <strong><font size=3>in</font></strong>
+              </span>
+
+              <span class="username">{{ site.linkedin_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+         {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
               <span class="icon  icon--github">

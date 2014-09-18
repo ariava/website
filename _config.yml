@@ -26,6 +26,8 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: AriannaAvanzini
 github_username:  ariava
 gplus_username: AriannaAvanzini
+linkedin_username: AriannaAvanzini
+linkedin_profile: arianna-avanzini/4a/461/a8b
 
 # Build settings
 markdown: kramdown
