@@ -13,7 +13,7 @@ permalink: /links/links.html
 * GNOME's [Outreach Program for Women](http://gnome.org/opw/), which I took part in with the Xen Project mentored by [Konrad Rzeszutek Wilk](http://darnok.org/)
 
 # University-related resources
-* My __bachelor's degree thesis__, *"Implementation of queue cooperation and preemption algorithms in the BFQ disk scheduler"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFQjMweVhkS3NHMDg/edit?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFbGtpNHhXSkI3d1U/edit?usp=sharing)\]
+* My __bachelor's degree thesis__, *"Implementation of queue cooperation and preemption algorithms in the BFQ disk scheduler"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFOTNpd2pUeTRERkk/edit?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFbGtpNHhXSkI3d1U/edit?usp=sharing)\]
 * My __master's degree thesis__, *"Integrating Linux and the real-time ERIKA OS through the Xen hypervisor"* - (nothing available yet)
 
 # Miscellaneous resources
