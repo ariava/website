@@ -3,24 +3,25 @@ title: 127.0.0.1
 email: avanzini.arianna@gmail.com
 alternate_website: "http://ari-ava.blogspot.it/"
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is powered by <a href=http://jekyllrb.com/>jekyll</a>, the
-  static site generator. Blog posts are released under <a href=http://creativecommons.org/licenses/by-nc-sa/4.0/>
+  This blog is powered by <a href=http://jekyllrb.com/>jekyll</a>.<br>Blog posts
+  are released under <a href=http://creativecommons.org/licenses/by-nc-sa/4.0/>
   CC BY-NC-SA</a>, while jekyll is subject to the <a href=https://github.com/jekyll/jekyll/blob/master/LICENSE>
   MIT license</a>.<br>
   <img src=http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png>
 intro: >
-  Hi! I'm Arianna Avanzini and this is my website. I have obtained a bachelor's degree in Computer Science
-  at the <a href=http://www.unimore.it>University of Modena and Reggio Emilia</a> in 2011 with a thesis about the
-  implementation of queue cooperation and preemption in the <a href=http://www.algogroup.unimo.it/people/paolo/disk_sched/>
-  BFQ storage I/O scheduler</a>. I am currently finishing my MD in Computer Engineering, my thesis being
-  based on an internship in collaboration with <a href=http://www.evidence.eu.com/it>Evidence Srl</a> concerning
-  the port of their real-time RTOS <a href=http://erika.tuxfamily.org/drupal/>ERIKA Enterprise</a> as a
-  <a href=http://www.xenproject.org/>Xen</a>-on-ARM guest. I am also an alumn from GNOME's <a href=http://gnome.org/opw/>
-  Outreach Program for Women</a>, in which I was accepted again with the <a href=http://www.xenproject.org/>Xen Project</a>
-  and worked on <a href=http://wiki.xenproject.org/wiki/2014_GSoC_and_OPW_Round_8_Projects#Improvements_to_the_block_I.2FO_paravirtualized_Xen_drivers>domain support for Linux</a> by porting the block I/O driver used by Linux-based Xen PV guests to the
-  multi-queue block layer API.
+  Hi! Welcome to my website!
   <br>
-  If you want to take a deeper look, here's my <a href=https://drive.google.com/file/d/0B3VQ-C3TAxDFaFNDSzJaWVFDUlk/edit?usp=sharing>resume<a>.
+  I'm Arianna Avanzini and I'm a computer engineering student. I have a relationship of love and hate with software bugs, and I do enjoy
+  hunting them in both userspace and kernelspace projects. I am an amateur and an enthusiast in operating systems (especially <a href=https://www.kernel.org/>Linux</a>),
+  although I love coding at whatever layer. I recently had a crush on virtualization, and since then I have been studying and playing with the Xen hypervisor.
+  <br>
+  I love <a href=https://www.google.com/search?q=cute+kitten&tbm=isch>cats</a>, <a href=https://www.google.com/search?q=pug%7Cbeagle+puppy&tbm=isch>dogs</a>,
+  <a href=http://www.guitarpress.com/images/Paganini_Ghiribizzi.pdf>classical guitars</a>, <a href=http://www.ibdof.com/author_books.php?author=68>science</a>
+  <a href=http://www.startrek.com/>fiction</a> and <a href=http://xkcd.com/>science-related humour</a>.
+  <br><br>
+  If you want to take a deeper look, here's my <a href=https://drive.google.com/file/d/0B3VQ-C3TAxDFMTdqWjlWM1FSc28/edit?usp=sharing>resume</a>.
+  <br>
+  If you're stuck on the cats page, I'm sorry, I can't help.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: AriannaAvanzini
