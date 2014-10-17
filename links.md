@@ -14,7 +14,11 @@ permalink: /links/links.html
 
 # University-related resources
 * My __bachelor's degree thesis__, *"Implementation of queue cooperation and preemption algorithms in the BFQ disk scheduler"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFOTNpd2pUeTRERkk/edit?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFbGtpNHhXSkI3d1U/edit?usp=sharing)\]
-* My __master's degree thesis__, *"Integrating Linux and the real-time ERIKA OS through the Xen hypervisor"* - (nothing available yet)
+* My __master's degree thesis__, *"Integrating Linux and the real-time ERIKA OS through the Xen hypervisor"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFTlJibmtMd05SLXM/view?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFdkdIZTVDV0hNb2s/view?usp=sharing)\]
+
+# Talks
+* "Panel: Are We Growing Our Community with GSoC and OPW?" at [Xen Project Developer Summit 2014](http://xenprojectdevelopersummit2014.sched.org/) - [abstract](http://sched.co/1nnPP3B)
+* "Integrating Linux and the Real-Time ERIKA OS Through the Xen Hypervisor" at [CloudOpen Europe 2014](http://lccoelce14.sched.org/) - [abstract](http://sched.co/1yGeyU6), [slides](https://drive.google.com/file/d/0B3VQ-C3TAxDFYTZsMVVETGpRRkE/view?usp=sharing)
 
 # Miscellaneous resources
 * Github repositories for my OPW internship project: [source](https://github.com/ariava/linux-xen-blk-mq), [benchmark](https://github.com/ariava/xen-blk-mq-benchmark)
