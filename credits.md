@@ -11,5 +11,5 @@ layout (not willing to disregard Hyde, [here](hyde.html) it is if you want to ta
 
 The web server providing the website is being run on a [MirageOS](http://www.openmirage.org/)-based
 virtual machine, powered by [Xen](http://www.xenproject.org/) and hosted on an [Amazon EC2](http://aws.amazon.com/ec2/)
-t2.micro instance. If you want to re-create this setup, please have a look at the MirageOS [documentation pages](http://www.openmirage.org/docs/),
+t1.micro instance. If you want to re-create this setup, please have a look at the MirageOS [documentation pages](http://www.openmirage.org/docs/),
 or at [Mindy Preston's blog](http://somerandomidiot.com/).
