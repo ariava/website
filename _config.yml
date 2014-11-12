@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 intro: >
   Hi! Welcome to my website!
   <br>
-  I'm Arianna Avanzini and I'm a computer engineering student. I have a relationship of love and hate with software bugs, and I do enjoy
+  I'm Arianna Avanzini and I'm a computer engineer. I have a relationship of love and hate with software bugs, and I do enjoy
   hunting them in both userspace and kernelspace projects. I am an amateur and an enthusiast in operating systems (especially <a href=https://www.kernel.org/>Linux</a>),
   although I love coding at whatever layer. I recently had a crush on virtualization, and since then I have been studying and playing with the <a href=http://www.xenproject.org/>Xen</a> hypervisor.
   <br>
@@ -19,11 +19,11 @@ intro: >
   <a href=http://www.guitarpress.com/images/Paganini_Ghiribizzi.pdf>classical guitars</a>, <a href=http://www.ibdof.com/author_books.php?author=68>science</a>
   <a href=http://www.startrek.com/>fiction</a> and <a href=http://xkcd.com/>science-related humour</a>.
   <br><br>
-  If you want to take a deeper look, here's my classic-style <a href=https://drive.google.com/file/d/0B3VQ-C3TAxDFMTdqWjlWM1FSc28/edit?usp=sharing target="_blank">resume</a>, while if you prefer a more project-oriented description, <a href=https://docs.google.com/document/d/1BavHxWTzl51cfbJkfwCwlZST9jM8gAkzMksb6UW6NcY/edit?usp=sharing target="_blank">here</a> it is (still work-in-progress).
+  If you want to take a deeper look, here's my classic-style <a href=https://drive.google.com/file/d/0B3VQ-C3TAxDFcS12dXdVU18zSnM/view?usp=sharing target="_blank">resume</a>, while if you prefer a more project-oriented description, <a href=https://docs.google.com/document/d/1BavHxWTzl51cfbJkfwCwlZST9jM8gAkzMksb6UW6NcY/edit?usp=sharing target="_blank">here</a> it is (still work-in-progress).
   <br>
   If you're stuck on the cats page, I'm sorry, I can't help.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://ava.webhop.me" # the base hostname & protocol for your site
 twitter_username: AriannaAvanzini
 github_username:  ariava
 gplus_username: AriannaAvanzini

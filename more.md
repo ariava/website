@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Links
+title: More
 visible: yes
-permalink: /links/links.html
+permalink: /more/more.html
 ---
 
 # Projects I've learned from
@@ -13,12 +13,12 @@ permalink: /links/links.html
 * GNOME's [Outreach Program for Women](http://gnome.org/opw/), which I took part in with the Xen Project mentored by [Konrad Rzeszutek Wilk](http://darnok.org/)
 
 # University-related resources
-* My __bachelor's degree thesis__, *"Implementation of queue cooperation and preemption algorithms in the BFQ disk scheduler"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFOTNpd2pUeTRERkk/edit?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFbGtpNHhXSkI3d1U/edit?usp=sharing)\]
-* My __master's degree thesis__, *"Integrating Linux and the real-time ERIKA OS through the Xen hypervisor"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFTlJibmtMd05SLXM/view?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFdkdIZTVDV0hNb2s/view?usp=sharing)\]
+* My __bachelor's degree thesis__, *"Implementation of queue cooperation and preemption algorithms in the BFQ disk scheduler"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFOTNpd2pUeTRERkk/edit?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFbGtpNHhXSkI3d1U/edit?usp=sharing)\], slides \[[IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFemNVd2NMNk13RkE/view?usp=sharing)\]
+* My __master's degree thesis__, *"Integrating Linux and the real-time ERIKA OS through the Xen hypervisor"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFTlJibmtMd05SLXM/view?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFdkdIZTVDV0hNb2s/view?usp=sharing)\], slides \[[IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFQ2MtNXBSZDRwcG8/view?usp=sharing)\]
 
 # Talks
 * "Panel: Are We Growing Our Community with GSoC and OPW?" at [Xen Project Developer Summit 2014](http://xenprojectdevelopersummit2014.sched.org/) - [abstract](http://sched.co/1nnPP3B)
-* "Integrating Linux and the Real-Time ERIKA OS Through the Xen Hypervisor" at [CloudOpen Europe 2014](http://lccoelce14.sched.org/) - [abstract](http://sched.co/1yGeyU6), [slides](https://drive.google.com/file/d/0B3VQ-C3TAxDFYTZsMVVETGpRRkE/view?usp=sharing)
+* "Integrating Linux and the Real-Time ERIKA OS Through the Xen Hypervisor" at [CloudOpen Europe 2014](http://lccoelce14.sched.org/) - [abstract](http://sched.co/1yGeyU6), [slides](http://www.slideshare.net/xen_com_mgr/mb-os-q4-2014-proposal)
 
 # Miscellaneous resources
 * Github repositories for my OPW internship project: [source](https://github.com/ariava/linux-xen-blk-mq), [benchmark](https://github.com/ariava/xen-blk-mq-benchmark)
