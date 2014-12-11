@@ -14,7 +14,7 @@ permalink: /more/more.html
 
 # University-related resources
 * My __bachelor's degree thesis__, *"Implementation of queue cooperation and preemption algorithms in the BFQ disk scheduler"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFOTNpd2pUeTRERkk/edit?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFbGtpNHhXSkI3d1U/edit?usp=sharing)\], slides \[[IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFemNVd2NMNk13RkE/view?usp=sharing)\]
-* My __master's degree thesis__, *"Integrating Linux and the real-time ERIKA OS through the Xen hypervisor"* - document (not available yet), abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFTlJibmtMd05SLXM/view?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFdkdIZTVDV0hNb2s/view?usp=sharing)\], slides \[[IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFQ2MtNXBSZDRwcG8/view?usp=sharing)\]
+* My __master's degree thesis__, *"Integrating Linux and the real-time ERIKA OS through the Xen hypervisor"* - document \[[EN \| IT](https://morethesis.unimore.it/theses/available/etd-10062014-114648/)\], abstract \[[EN](https://drive.google.com/file/d/0B3VQ-C3TAxDFTlJibmtMd05SLXM/view?usp=sharing) \| [IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFdkdIZTVDV0hNb2s/view?usp=sharing)\], slides \[[IT](https://drive.google.com/file/d/0B3VQ-C3TAxDFQ2MtNXBSZDRwcG8/view?usp=sharing)\]
 
 # Talks
 * "Panel: Are We Growing Our Community with GSoC and OPW?" at [Xen Project Developer Summit 2014](http://xenprojectdevelopersummit2014.sched.org/) - [abstract](http://sched.co/1nnPP3B)
